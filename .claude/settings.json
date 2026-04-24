@@ -1,7 +1,9 @@
 {
-  "permissions": {
-    "allowedUrls": [
-      "api.telegram.org"
-    ]
+  "sandbox": {
+    "network": {
+      "allowedDomains": [
+        "api.telegram.org"
+      ]
+    }
   }
 }
