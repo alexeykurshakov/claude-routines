@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allowedUrls": [
+      "api.telegram.org"
+    ]
+  }
+}
